@@ -1,6 +1,6 @@
-#**Introdução ao HTML5 e CSS3**​ :desktop_computer:
+<h1>Introdução ao HTML5 e CSS3 ​ :desktop_computer:</h1>
 
-##**_HTML5_**
+<h2>HTML5</h2>
 
 - Estrutura básica
 - Tags:
