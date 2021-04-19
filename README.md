@@ -1,6 +1,6 @@
-#**Introdução ao HTML5 e CSS3**​ :desktop_computer:
+<h1>Introdução ao HTML5 e CSS3 ​ :desktop_computer:</h1>
 
-##**_HTML5_**
+<h2>HTML5</h2>
 
 - Estrutura básica
 - Tags:
@@ -20,6 +20,7 @@
     - ol -> ordenadas
     - ul -> não ordenadas
     - li -> conteúdo de uma lista
+<<<<<<< HEAD
   - Representando blocos de código **_*_**
     - code -> partes genéricas de código (partes pequenas de código)
     - pre -> Blocos de código, pois essa tag mantém os espaços em branco e recuos que eu colocar no meu código
@@ -28,3 +29,5 @@
   - Elementos genéricos
     - div -> cria caixas ('divisoes/blocos')
     - span -> mantém o texto na mesma linha
+=======
+>>>>>>> 32c02e46dc13a059010589e06adbb6ec167a2dac
